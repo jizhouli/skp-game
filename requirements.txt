@@ -6,7 +6,7 @@ Cheetah==2.4.4
 click==7.1.2
 cloud-init==17.1
 configobj==4.7.2
-cryptography==3.0
+cryptography==3.2
 decorator==3.4.0
 enum34==1.0.4
 Flask==1.0.2
