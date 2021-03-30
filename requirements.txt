@@ -35,7 +35,7 @@ pyasn1==0.1.9
 pycparser==2.14
 pycrypto==2.6.1
 pycurl==7.19.0
-Pygments==1.4
+Pygments==2.7.4
 pygobject==3.22.0
 pygpgme==0.3
 pyliblzma==0.5.3
