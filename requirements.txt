@@ -28,7 +28,7 @@ Markdown==2.4.1
 MarkupSafe==1.1.1
 oauthlib==2.0.1
 perf==0.1
-Pillow==2.0.0
+Pillow==9.0.1
 ply==3.4
 prettytable==0.7.2
 pyasn1==0.1.9
